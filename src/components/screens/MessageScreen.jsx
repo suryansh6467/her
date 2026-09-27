@@ -27,16 +27,10 @@ export default function MessageScreen() {
                 <div className={`cover ${opened ? "opacity-0" : "opacity-100"} pointer-events-none z-10 bg-[#ffedea]!`} />
 
                 <div className="relative px-6 h-56 overflow-y-auto text-foreground">
-                    Happy Birthday, Cutiepie! 💗✨
-Tumhe duniya ki saari happiness, love aur endless smiles mile, kyunki tum genuinely itni special ho. 🥹❤️ Tumhari smile mein pata nahi kya magic hai, but tumhe smile karte dekh kar automatically mood achha ho jata hai. 😌✨
+                   💗 Happy Birthday Deepshikha (Titli) 🥰
 
-I hope tumhara ye birthday bahut saari happiness, cute surprises aur beautiful moments se bhara ho. 🫶🏻 Tum jis tarah se apni kindness aur sweet nature se logon ko special feel karwati ho, woh honestly kaafi rare hai.
-
-Bas aise hi hamesha smile karti rehna aur apni cute si vibe se sabki life bright karti rehna. 💕
-And haan… aaj ka din special hai, kyunki aaj **tumhara birthday hai**. 😌🎂❤️
-
-Once again, Happy Birthday, Cutiepie! 🥳💗
-May you get everything you wish for… and maybe thoda sa extra happiness meri taraf se. 🙈✨
+Yrr mari kisi bhi baat k bura lga ho tho please maff kro mari koi intention nhi hoo thi ki mai preshan kruu,
+Or abb kaafi time ho gyaa h yr mere sai move on bhi nhii hoo rha, mujhe nhi pata kiya chall rha hai pr sach batau tho mujhe sachi bura lgg tha hai pata nhi kuch ajeeb saa heart m feel ho tha hai or eyes sai tho 😊 orr haa mujhe sach m pasand ho aap ❤️
 
                 </div>
             </div>
